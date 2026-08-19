@@ -12,6 +12,6 @@ Belajar dan terus berkembang bersama **Dicoding** 🚀
 ---
 
 ## ✨ Tentang Penulis
-**SANDI GANTENG** 😎
-
+**SANDI GANTENG** 😎 <br>
+**TEKNIK INFORMATIKA**
 ---
